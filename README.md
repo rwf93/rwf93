@@ -22,6 +22,6 @@
   z-index: -1;
   opacity: 0.1;
   pointer-events: none;
-  animation: 35s linear infinite sponsors-progress-animation;
+  animation: 35s linear infinite reverse sponsors-progress-animation;
   user-select: none;]{x0000}$}
 ```
