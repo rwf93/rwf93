@@ -10,18 +10,3 @@
   <br>
   <img src="https://b.catgirlsare.sexy/J3VvPa575EVW.gif"/>
 </p>
-
-```math
-\ce{$\unicode[goombafont;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: url('https://camo.githubusercontent.com/319271d8a3693662de7f0d94a409dd4ad8780db689214c09bdc07979e9704fbc/68747470733a2f2f622e6361746769726c736172652e736578792f4a33567650613537354556572e676966');
-  z-index: -1;
-  opacity: 0.1;
-  pointer-events: none;
-  animation: 35s linear infinite reverse sponsors-progress-animation;
-  user-select: none;]{x0000}$}
-```
