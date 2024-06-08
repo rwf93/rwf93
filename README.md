@@ -1,11 +1,6 @@
 # Hi! I'm weezer, and I enjoy weezer :^)
 ### (I also code, heres my stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rwf93&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rwf93&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+[![wakatime](https://wakatime.com/badge/user/7c2b8312-3f6d-47a9-831b-b0c788ccfaf2.svg)](https://wakatime.com/@7c2b8312-3f6d-47a9-831b-b0c788ccfaf2)
 
 <p align="center">
 	<img src="https://b.catgirlsare.sexy/J3VvPa575EVW.gif"/>
